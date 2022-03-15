@@ -1,0 +1,6 @@
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\KomodoInsuranceProject\bin\Debug\KomodoInsuranceProject.dll
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\KomodoInsuranceProject\bin\Debug\KomodoInsuranceProject.pdb
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\KomodoInsuranceProject\obj\Debug\KomodoInsuranceProject.csproj.AssemblyReference.cache
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\KomodoInsuranceProject\obj\Debug\KomodoInsuranceProject.csproj.CoreCompileInputs.cache
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\KomodoInsuranceProject\obj\Debug\KomodoInsuranceProject.dll
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\KomodoInsuranceProject\obj\Debug\KomodoInsuranceProject.pdb

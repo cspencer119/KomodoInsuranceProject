@@ -1,0 +1,11 @@
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\DevConsoleApp\bin\Debug\DevConsoleApp.exe.config
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\DevConsoleApp\bin\Debug\DevConsoleApp.exe
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\DevConsoleApp\bin\Debug\DevConsoleApp.pdb
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\DevConsoleApp\bin\Debug\KomodoInsuranceProject.dll
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\DevConsoleApp\bin\Debug\KomodoInsuranceProject.pdb
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\DevConsoleApp\obj\Debug\DevConsoleApp.csproj.AssemblyReference.cache
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\DevConsoleApp\obj\Debug\DevConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\DevConsoleApp\obj\Debug\DevConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\DevConsoleApp\obj\Debug\DevConsoleApp.csproj.CopyComplete
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\DevConsoleApp\obj\Debug\DevConsoleApp.exe
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\KomodoInsuranceProject\KomodoInsuranceProject\DevConsoleApp\obj\Debug\DevConsoleApp.pdb
